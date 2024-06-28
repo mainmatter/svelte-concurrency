@@ -1,5 +1,24 @@
 # Changelog
 
+## Release (2024-06-28)
+
+@sheepdog/svelte 0.7.0 (minor)
+
+#### :rocket: Enhancement
+* `@sheepdog/svelte`
+  * [#112](https://github.com/mainmatter/sheepdog/pull/112) Add didCancel util ([@beerinho](https://github.com/beerinho))
+
+#### :bug: Bug Fix
+* `@sheepdog/svelte`
+  * [#108](https://github.com/mainmatter/sheepdog/pull/108) Fix docs site title ([@beerinho](https://github.com/beerinho))
+
+#### :house: Internal
+* `@sheepdog/svelte`
+  * [#113](https://github.com/mainmatter/sheepdog/pull/113) Remove `results` array ([@beerinho](https://github.com/beerinho))
+
+#### Committers: 1
+- Daniel Beer ([@beerinho](https://github.com/beerinho))
+
 ## Release (2024-06-21)
 
 @sheepdog/svelte 0.6.1 (patch)
